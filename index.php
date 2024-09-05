@@ -7,6 +7,11 @@
 </head>
 <body>
     <h1>Hello World</h1>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+        <li>Tiga</li>
+    </ul>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit maxime autem doloremque quo eligendi! Praesentium ex consequuntur sapiente sit porro aliquid ut. Aliquid perferendis vel corrupti quibusdam vitae quisquam minima.</p>
 </body>
 </html>
